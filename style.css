@@ -1,0 +1,15 @@
+* {
+    background: gray;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+h1 {
+   color: white;
+}
+
+.kwadrat{
+    height: 120px;
+    width: 120px;
+    background: orange;
+}
